@@ -34,6 +34,7 @@ public class Credentials{
 		this.password = password;
 	}
 
+	//Hello from Nick
 	public int getCredentialsId() {
 		return credentialsId;
 	}
